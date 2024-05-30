@@ -1,6 +1,6 @@
 # Credit Assessment Model
 
-This repository contains code for building a credit assessment model using machine learning techniques. The model is trained on a dataset from the banking and financial sector to predict credit default.
+This repository contains code for building a credit assessment model using machine learning techniques. The model is trained on a banking and financial sector dataset to predict credit default.
 
 ## Dataset
 
@@ -14,10 +14,10 @@ To run the code locally, follow these steps:
    ```bash
    git clone https://github.com/your-username/credit-assessment-model.git
 
-Install the required packages:
+2. Install the required packages:
+   ```bash
+    pip install pandas scikit-learn
 
-pip install pandas scikit-learn
-
-Run the Python script: 
-
-python credit_assessment_model.py
+3. Run the Python script: 
+    ```bash
+   python credit_assessment_model.py
