@@ -12,7 +12,7 @@ To run the code locally, follow these steps:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/credit-assessment-model.git
+   git clone (https://github.com/dipk1234/Assignment-.git)
 
 2. Install the required packages:
    ```bash
